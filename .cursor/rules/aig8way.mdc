@@ -12,7 +12,7 @@ before any code was written. Treat it as the brief, not as suggestions.
 
 Beta dogfood: berth bookings for a small marina. Created by aiG8way launchpad end-to-end test on 2026-09-21.
 
-- Started as: a new project
+- Started as: a repository we already own, brought under governance
 - Ships a model at runtime: no
 - Security level: Standard · GDPR
 
@@ -20,6 +20,15 @@ Beta dogfood: berth bookings for a small marina. Created by aiG8way launchpad en
 
 Nothing has been created yet — the intended repository is `nxg8w-dogfood/harbour-berth-booking`.
 Do not create it yourself; confirm first. Everything you need is in this brief.
+
+## Code that already exists
+
+_Location not recorded — ask._
+
+This project starts from working code. **Do not restructure it to match a template.** Add
+what is missing — documentation, CI, licence — and leave the source layout alone. If it
+came from an AI tool, assume credentials are in the git history until you have checked,
+and rotate anything you find: deleting the line does not remove it from history.
 
 ## Guardrails — not negotiable
 
