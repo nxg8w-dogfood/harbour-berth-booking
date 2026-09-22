@@ -13,8 +13,11 @@ Beta dogfood: berth bookings for a small marina. Created by aiG8way launchpad en
 
 ## Where the code lives
 
-Nothing has been created yet — the intended repository is `nxg8w-dogfood/harbour-berth-booking`.
-Do not create it yourself; confirm first. Everything you need is in this brief.
+You are reading this from inside the repository: https://github.com/nxg8w-dogfood/harbour-berth-booking. `AGENTS.md`,
+`.cursor/rules/aig8way.mdc` and `.github/copilot-instructions.md` hold this same brief, one
+per tool. `SECURITY.md` lists the controls and why each applies. `README.md`'s *Running it*
+section is a placeholder: writing it is the first commit. Work on a branch; the default
+branch takes pull requests only, and `.github/CODEOWNERS` says who reviews.
 
 ## Code that already exists
 
